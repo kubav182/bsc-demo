@@ -1,0 +1,4 @@
+USD 10
+CZK 5
+USD -5
+CZK -10
